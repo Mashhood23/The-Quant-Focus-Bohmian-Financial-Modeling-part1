@@ -57,7 +57,7 @@ Before trading, we performed rigorous Econophysics testing to validate the model
 ### 3. The Law of Asymmetric Instability
 By mapping the 2D Joint Quantum Potential ($Q(R,V)$), we discovered that maximum systemic risk does **not** occur at peak volume.
 
-> [cite_start]**Discovery:** The point of maximum instability occurs at a **Liquidity Vacuum** (Volume = 0.38). [cite: 121]
+> **Discovery:** The point of maximum instability occurs at a **Liquidity Vacuum** (Volume = 0.38). [cite: 121]
 
 [cite_start]Unlike the "Panic Selling" theory (high volume), the most dangerous crashes occur when volume dries up, creating an "Air Pocket." [cite: 121] [cite_start]The force vector analysis at this point ($179.82^{\circ}$) proves the market forces a V-shaped price recovery regardless of volume participation. [cite: 125, 128]
 
@@ -86,7 +86,7 @@ We engineered an algorithm that utilizes "Quantum Walls" as bifurcation points.
 
 ## 📝 Author
 
-[cite_start]**Mashhood Raza Khan** [cite: 2]
+> **Mashhood Raza Khan** [cite: 2]
 *3rd Year BSc Economics Honours Student*
 
 ---
