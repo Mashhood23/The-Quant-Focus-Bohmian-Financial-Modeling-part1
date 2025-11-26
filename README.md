@@ -86,7 +86,7 @@ We engineered an algorithm that utilizes "Quantum Walls" as bifurcation points.
 
 ## 📝 Author
 
-> **Mashhood Raza Khan** [cite: 2]
+> **Mashhood Raza Khan** 
 *3rd Year BSc Economics Honours Student*
 
 ---
